@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "A minimal beginner template for all baileymade projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikobe/baileymade-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikobe/baileymade-starter/issues"
+  },
+  "homepage": "https://github.com/nikobe/baileymade-starter#readme",
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  },
+  "devDependencies": {
+    "axe-cli": "^3.2.1",
+    "eslint": "^9.27.0"
+  }
+}
